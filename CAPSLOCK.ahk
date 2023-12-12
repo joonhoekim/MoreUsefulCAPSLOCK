@@ -12,9 +12,15 @@ CapsLock & f::Send, ^f
 CapsLock & g::Send, ^g
 CapsLock & i::Send, ^i
 CapsLock & m::Send, ^m
+CapsLock & n::Send, ^n
+CapsLock & o::Send, ^o
+CapsLock & p::Send, ^p
 CapsLock & q::Send, ^q
 CapsLock & r::Send, ^r
+CapsLock & s::Send, ^s
 CapsLock & t::Send, ^t
+CapsLock & u::Send, ^u
+CapsLock & v::Send, ^v
 CapsLock & w::Send, ^w
 CapsLock & x::Send, ^x
 CapsLock & z::Send, ^z
@@ -39,6 +45,9 @@ CapsLock & l::Send, {Right}
 
 ; Make CapsLock + Tab act like Ctrl + Tab
 CapsLock & Tab::Send, ^{Tab}
+
+CapsLock & ]::Send, ^]
+CapsLock & [::Send, ^[
 
 ; Make CapsLock + Tab act like Ctrl + Tab
 ;CapsLock & Shift & Tab::Send, +^{Tab}
