@@ -1,3 +1,9 @@
+THis would be much better.
+[https://github.com/martin-stone/touchcursor](https://github.com/martin-stone/touchcursor)
+
+
+
+---
 # CapsLock Remapping with AutoHotKey
 
 This AutoHotKey script remaps the behavior of the CapsLock key to provide more functionality. By default, CapsLock is disabled and is configured to act as Ctrl when pressed in combination with alphabet keys. Additionally, certain number keys and special characters are also remapped to act as Ctrl when pressed with CapsLock.
@@ -34,9 +40,4 @@ Feel free to customize the script based on your preferences. You can add or modi
 ## Notes
 
 - The script uses the `#Persistent` directive to keep the script running.
-- The `SetCapsLockState, AlwaysOff` directive ensures that CapsLock is always turned off.
-- Some key combinations, such as CapsLock + Shift + Tab, may have limitations or be unsupported.
-
-## Disclaimer
-
-Use this script at your own risk. Make sure to review and understand the script before running it on your system. It's recommended to test in a safe environment before regular use.
+- The `SetCapsLockState, AlwaysOff` directive ensures that CapsLock is always turned off.](https://github.com/martin-stone/touchcursor)https://github.com/martin-stone/touchcursor
