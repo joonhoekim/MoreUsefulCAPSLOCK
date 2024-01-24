@@ -1,4 +1,4 @@
-THis would be much better.
+This would be much better.
 [https://github.com/martin-stone/touchcursor](https://github.com/martin-stone/touchcursor)
 
 
